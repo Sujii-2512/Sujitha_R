@@ -5,20 +5,35 @@ I'm a passionate **Full Stack Developer** on a journey to build, innovate, and g
 ### ✨ Skills
 
 <p align="left">
+  <!-- HTML5 Shield -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="50"/>
   </a>
+  <!-- CSS3 Shield -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="50"/>
   </a>
+  <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
+    <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
   </a>
+  <!-- React -->
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.icons8.com/ultraviolet/48/000000/react--v1.png" alt="React"/>
+    <img src="https://img.icons8.com/ultraviolet/48/react--v1.png" alt="React"/>
+  </a>
+  <!-- Java -->
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java"/>
+  </a>
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+  </a>
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
   </a>
 </p>
-
 ### Currently Exploring
 - Backend architecture, API design, and deployment
 - UI/UX best practices with responsive design
