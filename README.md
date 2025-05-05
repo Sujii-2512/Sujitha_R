@@ -5,10 +5,18 @@ I'm a passionate **Full Stack Developer** on a journey to build, innovate, and g
 ### ✨ Skills
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" />
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="React" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.icons8.com/ultraviolet/48/000000/react--v1.png" alt="React"/>
+  </a>
 </p>
 
 ### Currently Exploring
