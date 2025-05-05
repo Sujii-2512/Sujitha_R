@@ -5,13 +5,13 @@ I'm a passionate **Full Stack Developer** on a journey to build, innovate, and g
 ### ✨ Skills
 
 <p align="left">
-  <!-- HTML5 Shield -->
+  <!-- HTML5 Shield Only -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5" width="50"/>
   </a>
-  <!-- CSS3 Shield -->
+  <!-- CSS3 Shield Only -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" width="50"/>
   </a>
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -34,6 +34,7 @@ I'm a passionate **Full Stack Developer** on a journey to build, innovate, and g
     <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
   </a>
 </p>
+
 ### Currently Exploring
 - Backend architecture, API design, and deployment
 - UI/UX best practices with responsive design
