@@ -35,11 +35,6 @@ I'm a passionate **Full Stack Developer** on a journey to build, innovate, and g
   </a>
 </p>
 
-### Currently Exploring
-- Backend architecture, API design, and deployment
-- UI/UX best practices with responsive design
-- Scalable and maintainable code structures
-
 ### 🤝 Connect with me
 
 <p align="left">
